@@ -28,6 +28,8 @@
 //    [self.view addSubview:web];
     
     /*这是在测试*/
+    /*更新代码测试*/
+    /*还是测试*/
     
     NSURL *url = [NSURL URLWithString:@"http://175.6.7.244:8080/appdemo/xj.mp4"];
     moviePlayer = [[MPMoviePlayerController alloc] initWithContentURL:url];
