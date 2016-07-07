@@ -31,6 +31,7 @@
     /*更新代码测试*/
     /*还是测试*/
     /*新的命令*/
+    /*测试 git fetch */
     
     NSURL *url = [NSURL URLWithString:@"http://175.6.7.244:8080/appdemo/xj.mp4"];
     moviePlayer = [[MPMoviePlayerController alloc] initWithContentURL:url];
