@@ -36,6 +36,7 @@
     /*新的测试内容*/
     /*hhhlkk*/
     /*this is new test*/
+    /*test again*/
     
     NSURL *url = [NSURL URLWithString:@"http://175.6.7.244:8080/appdemo/xj.mp4"];
     moviePlayer = [[MPMoviePlayerController alloc] initWithContentURL:url];
